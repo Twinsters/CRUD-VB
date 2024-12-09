@@ -1,0 +1,15 @@
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.vbproj.AssemblyReference.cache
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.Resources.resources
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.vbproj.GenerateResource.cache
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.vbproj.CoreCompileInputs.cache
+F:\Prueba del trabajo\Examen\ConsultasSql\bin\Debug\ConsultasSql.dll
+F:\Prueba del trabajo\Examen\ConsultasSql\bin\Debug\ConsultasSql.pdb
+F:\Prueba del trabajo\Examen\ConsultasSql\bin\Debug\ConsultasSql.xml
+F:\Prueba del trabajo\Examen\ConsultasSql\bin\Debug\Conexion.dll
+F:\Prueba del trabajo\Examen\ConsultasSql\bin\Debug\Conexion.pdb
+F:\Prueba del trabajo\Examen\ConsultasSql\bin\Debug\Conexion.xml
+F:\Prueba del trabajo\Examen\ConsultasSql\bin\Debug\Conexion.dll.config
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.vbproj.CopyComplete
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.dll
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.xml
+F:\Prueba del trabajo\Examen\ConsultasSql\obj\Debug\ConsultasSql.pdb

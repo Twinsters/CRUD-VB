@@ -1,0 +1,11 @@
+F:\Prueba del trabajo\Examen\Conexion\bin\Debug\Conexion.dll.config
+F:\Prueba del trabajo\Examen\Conexion\bin\Debug\Conexion.dll
+F:\Prueba del trabajo\Examen\Conexion\bin\Debug\Conexion.pdb
+F:\Prueba del trabajo\Examen\Conexion\bin\Debug\Conexion.xml
+F:\Prueba del trabajo\Examen\Conexion\obj\Debug\Conexion.vbproj.AssemblyReference.cache
+F:\Prueba del trabajo\Examen\Conexion\obj\Debug\Conexion.Resources.resources
+F:\Prueba del trabajo\Examen\Conexion\obj\Debug\Conexion.vbproj.GenerateResource.cache
+F:\Prueba del trabajo\Examen\Conexion\obj\Debug\Conexion.vbproj.CoreCompileInputs.cache
+F:\Prueba del trabajo\Examen\Conexion\obj\Debug\Conexion.dll
+F:\Prueba del trabajo\Examen\Conexion\obj\Debug\Conexion.xml
+F:\Prueba del trabajo\Examen\Conexion\obj\Debug\Conexion.pdb

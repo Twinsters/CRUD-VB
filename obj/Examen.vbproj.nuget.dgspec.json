@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Prueba del trabajo\\Examen\\Examen\\Examen.vbproj": {}
+  },
+  "projects": {
+    "F:\\Prueba del trabajo\\Examen\\Clases\\Clases.vbproj": {
+      "restore": {
+        "projectUniqueName": "F:\\Prueba del trabajo\\Examen\\Clases\\Clases.vbproj",
+        "projectName": "Clases",
+        "projectPath": "F:\\Prueba del trabajo\\Examen\\Clases\\Clases.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "F:\\Prueba del trabajo\\Examen\\ConsultasSql\\ConsultasSql.vbproj": {
+                "projectPath": "F:\\Prueba del trabajo\\Examen\\ConsultasSql\\ConsultasSql.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\Prueba del trabajo\\Examen\\Conexion\\Conexion.vbproj": {
+      "restore": {
+        "projectUniqueName": "F:\\Prueba del trabajo\\Examen\\Conexion\\Conexion.vbproj",
+        "projectName": "Conexion",
+        "projectPath": "F:\\Prueba del trabajo\\Examen\\Conexion\\Conexion.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\Prueba del trabajo\\Examen\\ConsultasSql\\ConsultasSql.vbproj": {
+      "restore": {
+        "projectUniqueName": "F:\\Prueba del trabajo\\Examen\\ConsultasSql\\ConsultasSql.vbproj",
+        "projectName": "ConsultasSql",
+        "projectPath": "F:\\Prueba del trabajo\\Examen\\ConsultasSql\\ConsultasSql.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "F:\\Prueba del trabajo\\Examen\\Conexion\\Conexion.vbproj": {
+                "projectPath": "F:\\Prueba del trabajo\\Examen\\Conexion\\Conexion.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\Prueba del trabajo\\Examen\\Examen\\Examen.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Prueba del trabajo\\Examen\\Examen\\Examen.vbproj",
+        "projectName": "Examen",
+        "projectPath": "F:\\Prueba del trabajo\\Examen\\Examen\\Examen.vbproj",
+        "packagesPath": "C:\\Users\\Claw\\.nuget\\packages\\",
+        "outputPath": "F:\\Prueba del trabajo\\Examen\\Examen\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Claw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "F:\\Prueba del trabajo\\Examen\\Clases\\Clases.vbproj": {
+                "projectPath": "F:\\Prueba del trabajo\\Examen\\Clases\\Clases.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
